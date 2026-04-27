@@ -1,0 +1,54 @@
+{
+  "name": "Ghost Rave & Awards 2026",
+  "short_name": "Ghost Awards",
+  "description": "Vote for your favourites at the Ghost Rave & Awards 2026. Celebrating digital excellence in music, art, and culture.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "background_color": "#0a0014",
+  "theme_color": "#8b4fd8",
+  "orientation": "portrait-primary",
+  "categories": ["entertainment", "music"],
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-image.png",
+      "sizes": "1080x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Ghost Rave & Awards 2026"
+    }
+  ]
+}
